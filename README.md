@@ -4,7 +4,6 @@
 
 <p><a href="https://github.com/Muhammad-Jawwad">Muhammad-Jawwad</a></p>
 <p><a href="https://github.com/Asad-devv">Asadullah</a></p>
-<p><a href="https://github.com/zaryabnaqvi">ZARYAB NAQVI</a></p>
 
 #DESCRIPTION
 
